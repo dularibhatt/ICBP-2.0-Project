@@ -5,7 +5,7 @@ import base64
 import io
 
 # ✅ Set up your OpenAI key
-client = OpenAI(api_key="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")  # Replace with your key
+client = OpenAI(api_key="Enter your API Key Here")  # Replace with your key
 
 st.set_page_config(page_title="Smartest AI Nutrition Assistant", layout="wide")
 st.title("🥗 The Smartest AI Nutrition Assistant")
